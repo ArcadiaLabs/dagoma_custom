@@ -1,0 +1,5 @@
+;stop fan
+M908		
+
+; execute autoleveling
+G29
