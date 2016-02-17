@@ -1,10 +1,8 @@
-## OctoPiPanel v0.2-dev ##
+## OctoPiPanel v0.3-dev ##
 
-OctoPiPanel creates a simple interface on a small screen to control OctoPrint. <br/>
-OctoPiPanel requires Pygame to be installed. Pygame can be downloaded from http://pygame.org. <br/>
-OctoPiPanel is developed by Jonas Lorander (jonas@haksberg.net).<br/>
-
-https://github.com/jonaslorander/OctoPiPanel
+OctoPiPanel-Dagoma creates a simple interface on a small screen to control OctoPrint. <br/>
+OctoPiPanel-Dagoma requires Pygame to be installed. Pygame can be downloaded from http://pygame.org. <br/>
+OctoPiPanel-Dagoma is forked from Jonas Lorander (jonas@haksberg.net) OctoPiPanel (https://github.com/jonaslorander/OctoPiPanel/).<br/>
 
 This is a (slow) work in progress.
 
