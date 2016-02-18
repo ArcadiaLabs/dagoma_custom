@@ -4,5 +4,6 @@
 - better framebuffer handling
 - better touchscreen handling
 - reduced CPU charge (added a delay in main loop)
+- temporarily disabled GPIO functions (prepare porting for various hardware architectures)
 - started porting for other display resolutions
 - cosmetic changes
